@@ -1,7 +1,7 @@
 # Physics-Informed Machine Learning Architecture for Real-Time Optical Link Outage Prediction in FSO
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23154490.svg)](https://doi.org/10.5281/zenodo.23154490)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rajlaxmi-ML/fso-link-outage-prediction/blob/main/FSO_Link_Outage_Prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KbwLPenNy_RlMbEPWNDmY5bvEh8WIusj?usp=sharing)
 
 **Authors:** Rajlaxmi Thakur, Sanya Sharma  
 **Research Preprint:** [Zenodo DOI: 10.5281/zenodo.23154490](https://doi.org/10.5281/zenodo.23154490)
