@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23154490.svg)](https://doi.org/10.5281/zenodo.23154490)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KbwLPenNy_RlMbEPWNDmY5bvEh8WIusj?usp=sharing)
 
-**Authors:** Rajlaxmi Thakur, Sanya Sharma  
+**Authors:** Rajlaxmi Thakur, Saniya Sharma  
 **Research Preprint:** [Zenodo DOI: 10.5281/zenodo.23154490](https://doi.org/10.5281/zenodo.23154490)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fso-link-outage-prediction-y45sr6hyzwup7cd5rbx2xm.streamlit.app)
