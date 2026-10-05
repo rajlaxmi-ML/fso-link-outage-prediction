@@ -13,6 +13,8 @@ Free Space Optics (FSO) links are vulnerable to weather impacts like atmospheric
 
 This repository implements a **physics-informed machine learning pipeline** that integrates classical optical attenuation physics (Kim-Kruse Mie scattering models & Beer-Lambert law) with lookahead feature target shifting in Random Forest classifiers. The system provides a **45–60 second proactive lead-time warning** prior to link drops below receiver sensitivity thresholds (-38 dBm to -40 dBm).
 
+Data Source: NOAA Local Climatological Data (LCD) - Real hourly weather data | Physics: Kim & Kruse model for visibility to attenuation | ML: Time-shifted prediction (t -> t+k)
+
 ---
 📄 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23154490.svg)](https://doi.org/10.5281/zenodo.23154490)
 
