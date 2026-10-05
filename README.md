@@ -8,7 +8,10 @@ Free Space Optics (FSO) links are vulnerable to weather impacts like atmospheric
 This repository implements a **physics-informed machine learning pipeline** that integrates classical optical attenuation physics (Kim-Kruse Mie scattering models & Beer-Lambert law) with lookahead feature target shifting in Random Forest classifiers. The system provides a **45–60 second proactive lead-time warning** prior to link drops below receiver sensitivity thresholds (-38 dBm to -40 dBm).
 
 ---
-📄 **[Read Full Research Paper Draft & Documentation](./FSO_early_warning_system.docx)**
+📄 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23154490.svg)](https://doi.org/10.5281/zenodo.23154490)
+
+📄 **[Read Published Research Paper on Zenodo](https://doi.org/10.5281/zenodo.23154490)**
+
 ## 🚀 Live Interactive Telemetry Dashboard
 Access the live Streamlit early warning dashboard:  
 👉 **[FSO Live Telemetry EWS Dashboard](https://fso-link-outage-prediction-y45sr6hyzwup7cd5rbx2xm.streamlit.app)**
