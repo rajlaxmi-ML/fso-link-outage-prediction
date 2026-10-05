@@ -6,7 +6,7 @@
 **Authors:** Rajlaxmi Thakur, Saniya Sharma  
 **Research Preprint:** [Zenodo DOI: 10.5281/zenodo.23154490](https://doi.org/10.5281/zenodo.23154490)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fso-link-outage-prediction-y45sr6hyzwup7cd5rbx2xm.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fso-link-outage-prediction-y45sr6hyzwup7cd5rlx2xm.streamlit.app/)
 
 ## 📌 Executive Summary
 Free Space Optics (FSO) links are vulnerable to weather impacts like atmospheric attenuation, Mie scattering, and signal fade caused by fog, rain, and cloud cover. Standard reactive mitigation protocols manage link downtime reactively, addressing failures only after a total signal outage has occurred. In this project a physics-informed approach is used to create a lookahead window of 45-60 seconds to provide an early warning based on link outage probability. 
