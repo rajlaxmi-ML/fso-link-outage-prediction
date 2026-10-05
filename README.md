@@ -23,7 +23,7 @@ Data Source: NOAA Local Climatological Data (LCD) - Real hourly weather data | P
 ## 🚀 Live Interactive Telemetry Dashboard
 Access the live Streamlit early warning dashboard:  
 👉 **[FSO Live Telemetry EWS Dashboard](https://fso-link-outage-prediction-y45sr6hyzwup7cd5rbx2xm.streamlit.app)**
-
+https://fso-link-outage-prediction-y45sr6hyzwup7cd5rlx2xm.streamlit.app/
 ---
 
 ## 🛠️ System Architecture
